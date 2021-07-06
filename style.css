@@ -38,7 +38,7 @@ body {
   font-weight: bold;
 }
 
-.food-network {
+#food-network {
   display: inline-block;
   margin: 5%;
   padding: 2%;
@@ -68,7 +68,7 @@ body {
   margin-top: 10px;
 }
 /* About banner  */
-.about-banner {
+#about-banner {
   background-image: url(img/Frame\ 59.jpg);
   display: inline-block;
 }
@@ -110,7 +110,7 @@ body {
   width: 100%;
 }
 
-.recipie-item {
+#recipie-item {
   display: inline-block;
   padding: 0 5%;
 }
@@ -123,7 +123,7 @@ body {
   text-align: center;
 }
 
-.popularity {
+#popularity {
   width: 1080px;
   padding: 50px;
   height: 110px;
@@ -158,6 +158,6 @@ footer {
   color: #5b5b5b;
 }
 
-.footer-section {
-  padding: 35px;
+#footer-section {
+  padding: 20px;
 }
