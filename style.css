@@ -130,6 +130,7 @@ body {
   margin: auto;
   box-shadow: 3px 4px 15px -2px grey;
   margin-bottom: 70px;
+  border-radius: 10px;
 }
 
 /* Footer section  */
