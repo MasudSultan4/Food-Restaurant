@@ -133,6 +133,21 @@ body {
   border-radius: 10px;
 }
 
+/* contact form  */
+section.contact-form {
+  margin-bottom: 50px;
+  background-image: url(img/Frame\ 56.jpg);
+}
+
+section.contact-form form {
+  padding: 0 90px;
+}
+
+section.contact-form h2 {
+  width: 200px;
+  border-bottom: 5px solid orange;
+}
+
 /* Footer section  */
 
 footer {
