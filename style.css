@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+/* Header section  */
+.manu-var ul {
+  display: flex;
+}
+
+.manu-var {
+  float: right;
+  margin-right: 30px;
+}
+
+.manu-var ul {
+  list-style: none;
+  display: flex;
+}
+
+.manu-var ul li {
+  margin-left: 30px;
+  font-weight: 900;
+}
+.manu-var a {
+  text-decoration: none;
+  color: black;
+}
+/* food-network */
+
+.orang {
+  color: orange;
+}
+.spik-eat h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.food-network {
+  display: inline-block;
+  margin: 5%;
+  padding: 2%;
+}
+
+.man-img img {
+  width: 100%;
+  margin-left: 200px;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+}
+
+.skip-eat p {
+  color: gray;
+}
+
+.food-btn {
+  text-decoration: none;
+  display: inline-block;
+  background-image: linear-gradient(#fb964b, #fe4a2e);
+  color: white;
+  padding: 10px 25px;
+  border-radius: 50px;
+  margin-top: 10px;
+}
+/* About banner  */
+.about-banner {
+  background-image: url(img/Frame\ 59.jpg);
+  display: inline-block;
+}
+
+.about-text {
+  margin-left: 200px;
+}
+
+.about-text h1 {
+  color: gray;
+  font-weight: bold;
+}
+
+/* resipie Section  */
+
+.text-recipie {
+  width: 500px;
+  margin: auto;
+  text-align: center;
+  color: gray;
+}
+.text-recipie h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.item-block {
+  width: 300px;
+  float: left;
+  height: 400px;
+  margin-left: 55px;
+  box-shadow: 3px 4px 15px -2px grey;
+  border-radius: 10px;
+  margin-bottom: 60px;
+  padding: 18px;
+}
+
+.item-block img {
+  width: 100%;
+}
+
+.recipie-item {
+  display: inline-block;
+  padding: 0 5%;
+}
+
+/* Social NetWork  */
+
+.social-follwor {
+  width: 350px;
+  float: left;
+  text-align: center;
+}
+
+.popularity {
+  width: 1080px;
+  padding: 50px;
+  height: 110px;
+  margin: auto;
+  box-shadow: 3px 4px 15px -2px grey;
+  margin-bottom: 70px;
+}
+
+/* Footer section  */
+
+footer {
+  width: 100%;
+  height: 200px;
+  background-color: #0b0d17;
+  text-align: center;
+  color: #5b5b5b;
+}
+
+.footer-section {
+  padding: 35px;
+}
